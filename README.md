@@ -21,6 +21,6 @@ The technologies used are:
 
   here, we use XAMPP software because it gives Apache server and the MySql to run the application
 
-  Admin credential:  username - Rakshith and password - Rak@123
-    
-  for customer (user) you have option to sign up
+  -> The Database name is vehicle which should be inside htdocs.
+  -> Admin credential:  username - Rakshith and password - Rak@123.
+  -> for customer (user) you have option to sign up.
